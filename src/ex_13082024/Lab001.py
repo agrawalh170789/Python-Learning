@@ -1,8 +1,7 @@
-# Home Can you create a Program I will give you number(userinput and print table)
+#Task1
+#Home Can you create a Program I will give you number(userinput and print table)
 #f"{}" String format concept
 #User input - num int -> 10, 100, -1, 2, 3.14 -> input
-
-
 userNum = int(input("Enter the number :"))
 print(f"{userNum}*1={userNum*1}")
 print(f"{userNum}*2={userNum*2}")
